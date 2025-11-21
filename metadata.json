@@ -1,0 +1,7 @@
+{
+  "name": "GeoAttend Pro",
+  "description": "Enterprise-grade attendance management system with geolocation tracking, AI insights, and automated payroll generation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
